@@ -38,7 +38,7 @@ Below are some screenshots of the Nike Landing Page:
 
 ## Technologies Used
 
-- **Next.js**: A React framework for server-rendered applications
+
 - **React**: JavaScript library for building user interfaces
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **Vercel**: Deployment platform
